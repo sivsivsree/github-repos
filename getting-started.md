@@ -1,3 +1,4 @@
+
 # Get Started
 
 > if you are really new to github and dont know the basics,
@@ -48,3 +49,36 @@ In this exersice you will be using  [https://github.com/sivsivsree/github-repos]
     > remove: Total 10 (delta 1), reused 10 (delta 1)
     > Unpacking objects: 100% (10/10), done.
     ```
+
+
+## 2. Create a Branch
+
+**Branching**  is the way to work on different versions of a repository at one time.
+
+By default your repository has one branch named  `master`  which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to  `master`.
+
+When you create a branch off the  `master`  branch, you’re making a copy, or snapshot, of  `master`  as it was at that point in time. If someone else made changes to the  `master`  branch while you were working on your branch, you could pull in those updates.
+
+This diagram shows:
+
+-   The  `master`  branch
+-   A new branch called  `feature`  (because we’re doing ‘feature work’ on this branch)
+-   The journey that  `feature`  takes before it’s merged into  `master`
+
+![a branch](https://guides.github.com/activities/hello-world/branching.png)
+
+> Image taken from Github.
+
+Have you ever saved different versions of a file? Something like:
+
+-   `file.txt`
+-   `file-1.txt`
+-   `file-1-finsih.txt`
+
+Branches accomplish similar goals in GitHub repositories.
+
+
+ You can create branch using the following command in the bash.
+```bash
+git checkout -b your_branch_name
+```
