@@ -1,7 +1,7 @@
 # Contributions!
 
 > This is a currated list of repos that need contributions.<br>
-> If you wanna provide your repo use this link https://goo.gl/bcrfcE <br>
+> If you wanna provide your repo use this link to join whatsapp group https://goo.gl/bcrfcE <br>
 > If you are really new to github and the group do go through <br>
 > [Get started](https://github.com/sivsivsree/github-repos/blob/master/getting-started.md) 
 
