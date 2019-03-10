@@ -42,7 +42,7 @@ In this exersice you will be using  [https://github.com/sivsivsree/github-repos]
     
     ```shell
     $ git clone https://github.com/sivsivsree/github-repos
-    > Cloning into `Spoon-Knife`...
+    > Cloning into `github-repos`...
     > remote: Counting objects: 10, done.
     > remote: Compressing objects: 100% (8/8), done.
     > remove: Total 10 (delta 1), reused 10 (delta 1)
